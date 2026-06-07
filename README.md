@@ -67,12 +67,13 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
 
 ---
 
+| | |
+|---|---|
 | 🔥 **Prompt-to-Project** | Take a rough idea → refine with smart prompts → build a working prototype |
 | 🤖 **AI Integrations** | Hands-on with MediaPipe for hand tracking, pose detection, and real-time interactions |
 | 🌍 **Full Stack Mindset** | From frontend polish to backend logic — I enjoy the whole picture |
 | 📚 **Always Learning** | Every day, something new. Every project, something better. |
-
----
+---          
 
 <p align="center">
   💡 <em>Check back soon — I'm always building something interesting.</em>
