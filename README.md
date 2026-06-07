@@ -46,7 +46,6 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aurabydaniyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aurabydaniyal&theme=tokyonight&hide_border=true" />
 </p>
 
