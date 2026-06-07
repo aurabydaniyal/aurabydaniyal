@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm Muhammad Daniyal
+  <marquee>👋 Hi, I'm Muhammad Daniyal</marquee>
 </h1>
 
 <h3 align="center">
@@ -19,7 +19,7 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
 <br>
 
 | 🎯 **Currently exploring** | Web Development → moving toward App Development |
-| 🧪 **AI experiments** | MediaPipe, pre-trained models, prompt engineering with "beautiful thinking" |
+| 🧪 **AI experiments** | MediaPipe, API's, pre-trained models, prompt engineering with "beautiful thinking" |
 | 📸 **Superpower** | Visualize a project → prompts → code → working product |
 | 💡 **Motto** | *"Passionate to do anything, enjoys to learn everything"* |
 
@@ -70,7 +70,7 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
 | | |
 |---|---|
 | 🔥 **Prompt-to-Project** | Take a rough idea → refine with smart prompts → build a working prototype |
-| 🤖 **AI Integrations** | Hands-on with MediaPipe for hand tracking, pose detection, and real-time interactions |
+| 🤖 **AI Integrations** | Hands-on with MediaPipe for hand tracking, API's Integration, OpenCV |
 | 🌍 **Full Stack Mindset** | From frontend polish to backend logic — I enjoy the whole picture |
 | 📚 **Always Learning** | Every day, something new. Every project, something better. |
 ---          
