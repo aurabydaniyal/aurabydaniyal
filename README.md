@@ -17,6 +17,7 @@
 I'm a passionate developer who loves turning **imagination into reality** — whether it's a web app, a clever prompt, or a physical gesture with MediaPipe. I believe in learning by doing, and I never say "no" to a good challenge.
 
 <br>
+
 ---
 | | |
 |---|---|
@@ -24,7 +25,6 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
 | 🧪 **AI experiments** | MediaPipe, API's, pre-trained models, prompt engineering with "beautiful thinking" |
 | 📸 **Superpower** | Visualize a project → prompts → code → working product |
 | 💡 **Motto** | *"Passionate to do anything, enjoys to learn everything"* |
-
 ---
 
 ## 🛠️ Technical Arsenal
