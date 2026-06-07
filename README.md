@@ -50,10 +50,6 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aurabydaniyal&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurabydaniyal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 > 💡 *Check back soon — I'm always building something interesting.*
