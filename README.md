@@ -17,8 +17,9 @@
 I'm a passionate developer who loves turning **imagination into reality** — whether it's a web app, a clever prompt, or a physical gesture with MediaPipe. I believe in learning by doing, and I never say "no" to a good challenge.
 
 <br>
+---
 |||
-|----|----|
+|---|---|
 | 🎯 **Currently exploring** | Web Development → moving toward App Development |
 | 🧪 **AI experiments** | MediaPipe, API's, pre-trained models, prompt engineering with "beautiful thinking" |
 | 📸 **Superpower** | Visualize a project → prompts → code → working product |
