@@ -18,7 +18,7 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
 
 <br>
 ---
-|||
+| | |
 |---|---|
 | 🎯 **Currently exploring** | Web Development → moving toward App Development |
 | 🧪 **AI experiments** | MediaPipe, API's, pre-trained models, prompt engineering with "beautiful thinking" |
