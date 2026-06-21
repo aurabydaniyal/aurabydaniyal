@@ -51,7 +51,7 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
 
 ### 🧰 Tools
 <p align="left">
-  Git • GitHub • VS Code • Anaconda • Colab • XAMPP • Jupyter Notebook • DevC++ • Postman • Draw.io
+  Git • GitHub • VS Code • Anaconda • Kaggle • Colab • XAMPP • Jupyter Notebook • DevC++ • Postman • Draw.io
 </p>
 
 ### 🎨 AI Tools
