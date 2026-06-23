@@ -31,7 +31,7 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
 
 ### 💻 Languages
 <p align="left">
-  <code>C++</code> • <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>PHP</code> • <code>Python</code>
+  <code>C++</code> • <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>PHP</code> • <code>Python</code>
 </p>
 
 ### 🌐 Web Dev
