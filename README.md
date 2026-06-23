@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Web Developer | AI-Integrated Web Builder | Future App Developer 
+  🚀 Web Developer | AI-Integrated Web Builder | Future App Developer
 </h3>
 
 <p align="center">
