@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Web Developer | AI-Integrated Web Builder | Future App Developer
+  🚀 Web Developer | AI-Integrated Web Builder | Future AI Engineer
 </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@ I'm a passionate developer who loves turning **imagination into reality** — wh
 
 ### 🌐 Web Dev
 <p align="left">
-  React • Node.js • Tailwind • Bootstrap • Django (soon)
+  React • Node.js • Tailwind • Bootstrap • Django
 </p>
 
 ### 🤖 AI & ML
