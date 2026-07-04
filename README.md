@@ -58,7 +58,7 @@ I'm a **Deliberate AI Engineer** who transforms complex problems into elegant AI
 
 ### 🗄️ Databases & Storage
 <p align="left">
-  <code>PostgreSQL</code> • <code>MySQL</code> • <code>MongoDB</code> • <code>Redis</code> 
+  <code>PostgreSQL</code> • <code>MySQL</code> • <code>MongoDB</code> • <code>ChromaDB</code> 
 </p>
 
 ### 🛠️ Development Tools
