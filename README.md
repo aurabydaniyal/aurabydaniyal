@@ -33,12 +33,12 @@ I'm a **Deliberate AI Engineer** who transforms complex problems into elegant AI
 
 ### 🧠 AI & LLM Stack
 <p align="left">
-  <code>Claude API</code> • <code>OpenAI</code> • <code>Gemini</code> • <code>LangChain</code> • <code>LlamaIndex</code> • <code>Hugging Face</code>
+  <code>Claude API</code> • <code>OpenAI</code> • <code>Gemini</code> • <code>LangChain</code> • <code>LangGraph</code> • <code>Hugging Face</code>
 </p>
 
 ### 📊 RAG & Vector Databases
 <p align="left">
-  <code>Pinecone</code> • <code>Weaviate</code> • <code>Milvus</code> • <code>ChromaDB</code> • <code>FAISS</code> • <code>Elasticsearch</code>
+  <code>Pinecone</code> • <code>ChromaDB</code> • <code>pgVector</code> 
 </p>
 
 ### 🔧 MCP & AI Architecture
@@ -48,12 +48,12 @@ I'm a **Deliberate AI Engineer** who transforms complex problems into elegant AI
 
 ### 💻 Programming Languages
 <p align="left">
-  <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>C++</code> • <code>PHP</code> • <code>HTML/CSS</code>
+  <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>C++</code> • <code>HTML/CSS</code>
 </p>
 
 ### 🌐 Full-Stack Development
 <p align="left">
-  <code>React</code> • <code>React_Native</code> • <code>Node.js</code> • <code>Django</code> • <code>FastAPI</code> • <code>Tailwind</code> • <code>Bootstrap</code>
+  <code>React</code> • <code>React_Native</code> • <code>Node.js</code> • <code>FastAPI</code> • <code>Tailwind</code> • <code>Bootstrap</code>
 </p>
 
 ### 🗄️ Databases & Storage
@@ -63,12 +63,12 @@ I'm a **Deliberate AI Engineer** who transforms complex problems into elegant AI
 
 ### 🛠️ Development Tools
 <p align="left">
-  <code>Git</code> • <code>GitHub</code> • <code>Render</code> • <code>VS Code</code> • <code>Jupyter</code> • <code>Kaggle</code> • <code>Postman</code> • <code>Colab</code> 
+  <code>Git</code> • <code>GitHub</code> • <code>Render</code> • <code>VS Code</code> • <code>Jupyter</code> • <code>Kaggle</code> • <code>Postman</code> • <code>Colab</code> • <code>n8n</code> • <code>AntiGravity</code> 
 </p>
 
 ### 🎨 AI Tooling & Platforms
 <p align="left">
-  <code>LangSmith</code> • <code>Weights & Biases</code> • <code>Gradio</code> • <code>Streamlit</code> • <code>Hugging Face Spaces</code> • <code>Replicate</code>
+  <code>LangSmith</code> • <code>AntiGravity</code> • <code>Gradio</code> • <code>Streamlit</code> • <code>Hugging Face Spaces</code> • <code>Replicate</code>
 </p>
 
 ### 📊 Media & Creative AI
