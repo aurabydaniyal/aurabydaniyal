@@ -53,7 +53,7 @@ I'm a **Deliberate AI Engineer** who transforms complex problems into elegant AI
 
 ### 🌐 Full-Stack Development
 <p align="left">
-  <code>React</code> • <code>React_Native</code> • <code>Node.js</code> • <code>FastAPI</code> • <code>Tailwind</code> • <code>Bootstrap</code>
+  <code>React</code> • <code>React_Native</code> • <code>Node.js</code> • <code>FastAPI</code> • <code>Tailwind</code> • <code>Bootstrap</code> • <code>Next.js</code> 
 </p>
 
 ### 🗄️ Databases & Storage
