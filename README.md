@@ -1,176 +1,422 @@
 <h1 align="center">
-  👋 Hi, It's Muhammad Daniyal
-</h1> 
+  👋 Hi, I'm Muhammad Daniyal
+</h1>
 
 <h3 align="center">
-  🧠 AI Engineer | RAG Specialist | Full-Stack AI Developer
+  🤖 AI Engineer | 👁️ Computer Vision & AI Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+RAG+Architect;Building+Intelligent+Systems+with+LLMs;Vector+Databases+%26+Semantic+Search;MCP+%7C+LangChain+%7C+Claude+API;Turning+ideas+into+AI-powered+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Computer+Vision;Building+AI-Powered+Applications;Deep+Learning+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+OpenCV+%7C+MediaPipe;AI+Agents+%7C+MCP+%7C+LangGraph;Turning+Ideas+into+Working+AI+Products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <em>Deliberate learner. Practical builder. AI-focused problem solver.</em>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Deliberate AI Engineer** who transforms complex problems into elegant AI solutions. With a deep passion for **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, and **intelligent system design**, I bridge the gap between cutting-edge AI research and practical applications.
+I'm an **AI Engineer** focused on building practical AI applications by combining **Computer Vision, Deep Learning, LLMs, RAG, and modern AI architectures**.
 
-> *"I don't just use AI — I architect intelligence."*
+I enjoy taking an idea from **concept → AI model → backend → frontend → working product**.
+
+My current direction is **Computer Vision + AI Applications**, where I explore real-time visual systems, multimodal AI, intelligent agents, and AI-powered web/mobile applications.
+
+> 💡 *Understand deeply. Build deliberately. Turn ideas into intelligent systems.*
 
 <br>
 
 | | |
 |---|---|
-| 🎯 **Current Focus** | RAG Systems • LLM Integration • MCP Architecture • Vector Databases |
-| 🔬 **AI Specialization** | Semantic Search • Context-Aware AI • Prompt Engineering • Fine-Tuning |
-| 🏗️ **Architecture Mindset** | Designing scalable AI systems with MCP (Model-Context-Protocol) patterns |
-| 🧪 **Experiment-Driven** | Building proof-of-concepts → Production-ready AI solutions |
-| 💡 **Core Philosophy** | *"Deliberate learning. Intentional building. Impactful AI."* |
----
-
-## 🛠️ Technical Arsenal
-
-### 🧠 AI & LLM Stack
-<p align="left">
-  <code>Claude API</code> • <code>OpenAI</code> • <code>Gemini</code> • <code>LangChain</code> • <code>LangGraph</code> • <code>Hugging Face</code>
-</p>
-
-### 📊 RAG & Vector Databases
-<p align="left">
-  <code>Pinecone</code> • <code>ChromaDB</code> • <code>pgVector</code> 
-</p>
-
-### 🔧 MCP & AI Architecture
-<p align="left">
-  <code>Model-Context-Protocol</code> • <code>RAG Pipelines</code> • <code>Embedding Models</code> • <code>Semantic Search</code>
-</p>
-
-### 💻 Programming Languages
-<p align="left">
-  <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>C++</code> • <code>HTML/CSS</code>
-</p>
-
-### 🌐 Full-Stack Development
-<p align="left">
-  <code>React</code> • <code>React_Native</code> • <code>Node.js</code> • <code>FastAPI</code> • <code>Tailwind</code> • <code>Bootstrap</code> • <code>Next.js</code> 
-</p>
-
-### 🗄️ Databases & Storage
-<p align="left">
-  <code>PostgreSQL</code> • <code>MySQL</code> • <code>MongoDB</code> • <code>ChromaDB</code> 
-</p>
-
-### 🛠️ Development Tools
-<p align="left">
-  <code>Git</code> • <code>GitHub</code> • <code>Render</code> • <code>VS Code</code> • <code>Jupyter</code> • <code>Kaggle</code> • <code>Postman</code> • <code>Colab</code> • <code>n8n</code> • <code>AntiGravity</code> 
-</p>
-
-### 🎨 AI Tooling & Platforms
-<p align="left">
-  <code>LangSmith</code> • <code>AntiGravity</code> • <code>Gradio</code> • <code>Streamlit</code> • <code>Hugging Face Spaces</code> • <code>Replicate</code>
-</p>
-
-### 📊 Media & Creative AI
-<p align="left">
-  <code>MediaPipe</code> • <code>OpenCV</code> • <code>Midjourney</code> • <code>Canva</code> • <code>Gamma</code> • <code>Draw.io</code>
-</p>
+| 🎯 **Current Focus** | Computer Vision • Deep Learning • LLM Applications • Multimodal AI |
+| 👁️ **CV Focus** | OpenCV • MediaPipe • YOLO • OCR • Object Detection • Image Processing |
+| 🧠 **AI Focus** | RAG • LLMs • AI Agents • MCP • Semantic Search • Embeddings |
+| 🏗️ **Engineering Focus** | FastAPI • React • React Native • AI-powered applications |
+| 🔬 **Learning Approach** | Theory → Implementation → Projects → Real-world Systems |
+| 🚀 **Goal** | Build intelligent, real-time and production-oriented AI applications |
 
 ---
 
-## 🚀 Core Competencies
+# 🛠️ Technical Arsenal
 
-| Domain | Expertise |
-|--------|-----------|
-| **RAG Systems** | End-to-end RAG pipelines with hybrid search, reranking, and evaluation |
-| **LLM Integration** | API orchestration, prompt engineering, cost optimization, rate limiting |
-| **Vector DBs** | Implementation, optimization, and scaling of vector databases |
-| **MCP Architecture** | Building robust Model-Context-Protocol systems for AI applications |
-| **Semantic Search** | Advanced retrieval strategies with dense and sparse vectors |
-| **AI Agent Development** | Building autonomous agents with memory and tool use |
-| **Full-Stack AI** | Deploying AI-powered web applications with modern frameworks |
+## 🧠 AI & LLM Stack
+
+<p align="left">
+  <code>Claude API</code> •
+  <code>OpenAI</code> •
+  <code>Gemini</code> •
+  <code>LangChain</code> •
+  <code>LangGraph</code> •
+  <code>Hugging Face</code>
+</p>
+
+## 👁️ Computer Vision & Deep Learning
+
+<p align="left">
+  <code>OpenCV</code> •
+  <code>MediaPipe</code> •
+  <code>YOLO</code> •
+  <code>PyTorch</code> •
+  <code>TensorFlow</code> •
+  <code>Keras</code> •
+  <code>scikit-learn</code>
+</p>
+
+<p align="left">
+  <code>Image Processing</code> •
+  <code>Object Detection</code> •
+  <code>Image Classification</code> •
+  <code>Segmentation</code> •
+  <code>OCR</code> •
+  <code>Face & Hand Tracking</code> •
+  <code>Pose Estimation</code>
+</p>
+
+## 🔍 RAG & Vector Databases
+
+<p align="left">
+  <code>Pinecone</code> •
+  <code>ChromaDB</code> •
+  <code>pgVector</code> •
+  <code>Embeddings</code> •
+  <code>Semantic Search</code> •
+  <code>RAG Pipelines</code>
+</p>
+
+## 🤖 AI Agents & Architecture
+
+<p align="left">
+  <code>Model Context Protocol (MCP)</code> •
+  <code>LangGraph</code> •
+  <code>LangChain</code> •
+  <code>AI Agents</code> •
+  <code>Tool Calling</code> •
+  <code>Prompt Engineering</code>
+</p>
+
+## 💻 Programming Languages
+
+<p align="left">
+  <code>Python</code> •
+  <code>JavaScript</code> •
+  <code>TypeScript</code> •
+  <code>C++</code> •
+  <code>HTML</code> •
+  <code>CSS</code>
+</p>
+
+## 🌐 Full-Stack Development
+
+<p align="left">
+  <code>React</code> •
+  <code>React Native</code> •
+  <code>Node.js</code> •
+  <code>FastAPI</code> •
+  <code>Django</code> •
+  <code>Tailwind</code> •
+  <code>Bootstrap</code> •
+  <code>Next.js</code>
+</p>
+
+## 🗄️ Databases & Storage
+
+<p align="left">
+  <code>PostgreSQL</code> •
+  <code>MySQL</code> •
+  <code>MongoDB</code> •
+  <code>ChromaDB</code> •
+  <code>pgVector</code>
+</p>
+
+## 🔧 Development & Deployment
+
+<p align="left">
+  <code>Git</code> •
+  <code>GitHub</code> •
+  <code>Docker</code> •
+  <code>Render</code> •
+  <code>VS Code</code> •
+  <code>Jupyter</code> •
+  <code>Kaggle</code> •
+  <code>Google Colab</code> •
+  <code>Postman</code> •
+  <code>n8n</code> •
+  <code>AntiGravity</code>
+</p>
+
+## 🎨 AI Tooling & Platforms
+
+<p align="left">
+  <code>LangSmith</code> •
+  <code>Gradio</code> •
+  <code>Streamlit</code> •
+  <code>Hugging Face Spaces</code> •
+  <code>Replicate</code>
+</p>
+
+## 🎬 Creative & Productivity Tools
+
+<p align="left">
+  <code>Midjourney</code> •
+  <code>Canva</code> •
+  <code>Gamma</code> •
+  <code>Draw.io</code>
+</p>
 
 ---
 
-## 💡 What Makes Me Different
+# 🚀 Core Competencies
 
-### 🧠 Deliberate AI Engineering
-I don't just use AI — I **architect** it. Every project follows a deliberate process of understanding, designing, implementing, and optimizing.
-
-### 🏗️ System-First Thinking
-- **Scalability**: Designing systems that grow with data
-- **Performance**: Optimizing retrieval latency and response quality
-- **Cost Efficiency**: Balancing model selection with budget constraints
-- **Evaluation**: Systematic testing and improvement of AI pipelines
-
-### 🔄 RAG Mastery
-- Hybrid search strategies (BM25 + Dense Retrieval)
-- Context window optimization
-- Retrieval quality improvement techniques
-- End-to-end pipeline monitoring
-
-### 🎯 Project-to-Production
-- Rapid prototyping with Claude/GPT
-- Production-ready RAG systems
-- MCP architecture implementation
-- Continuous improvement through feedback loops
-
-### 🌍 Full Stack AI Developer
-- Backend: FastAPI, Django, Node.js
-- Frontend: React, React_Native 
-- AI: LangChain, LlamaIndex
-- Deployment: Render, GitHub, Hugging Face
+| Domain | What I Build |
+|--------|--------------|
+| 👁️ **Computer Vision** | Real-time vision applications using OpenCV, MediaPipe, YOLO and deep learning |
+| 🧠 **Deep Learning** | Neural networks, CNNs, transfer learning and model-based AI applications |
+| 🔎 **RAG Systems** | Retrieval pipelines using embeddings, vector databases and semantic search |
+| 🤖 **AI Agents** | Tool-using AI agents with LangGraph, LangChain and MCP |
+| 🧩 **LLM Applications** | AI applications using modern LLM APIs, prompting and structured workflows |
+| 🌐 **Full-Stack AI** | AI-powered web and mobile applications with modern frontend/backend stacks |
+| 🔗 **AI Integration** | Connecting AI models with APIs, databases, tools and real-world applications |
+| 📱 **AI + Mobile** | Exploring AI-powered mobile experiences with React Native |
+| ⚡ **Real-Time AI** | Camera-based and interactive AI systems with real-time inference |
 
 ---
 
-## 📈 Current Projects & Experiments
+# 👁️ Computer Vision Journey
+
+My Computer Vision focus includes:
+
+    Image Processing
+          ↓
+       OpenCV
+          ↓
+    Deep Learning & CNNs
+          ↓
+    Image Classification
+          ↓
+    Object Detection
+          ↓
+         YOLO
+          ↓
+      Segmentation
+          ↓
+          OCR
+          ↓
+    Face & Hand Tracking
+          ↓
+    Pose & Gesture Recognition
+          ↓
+    Video Understanding
+          ↓
+    Modern Vision Models
+          ↓
+      Multimodal AI
+          ↓
+    Real-Time Vision Applications
+
+### 🔬 Areas I'm Exploring
+
+- 🖼️ Image Processing & Computer Vision Fundamentals
+- 🎯 Object Detection & Tracking
+- ✋ Hand Tracking & Gesture Recognition
+- 🧍 Human Pose Estimation
+- 🙂 Face Detection & Recognition
+- 📝 OCR & Document Vision
+- 🎥 Real-Time Video Processing
+- 🧩 Image Segmentation
+- 🧠 Vision Transformers
+- 🔗 Vision-Language Models
+- 🤖 Multimodal AI
+- ⚡ Real-Time & Edge Vision Systems
+
+---
+
+# 🧠 AI Engineering Focus
+
+## 🔍 Retrieval-Augmented Generation
+
+- Document processing & chunking
+- Embeddings & vector search
+- Semantic retrieval
+- Hybrid retrieval
+- Context optimization
+- RAG evaluation
+- Domain-specific knowledge systems
+
+## 🤖 Agentic AI
+
+- AI agents
+- Tool calling
+- Agent workflows
+- LangGraph
+- LangChain
+- MCP
+- Memory & context
+- Multi-step AI workflows
+
+## 🏗️ AI Application Engineering
+
+    User
+      ↓
+    Frontend
+      ↓
+    API / Backend
+      ↓
+    AI Application Layer
+      ↓
+    LLM / Vision Model
+      ↓
+    RAG / Tools / Agents
+      ↓
+    Database / Vector Store
+      ↓
+    Response
+
+---
+
+# 🌐 Full-Stack AI Development
+
+I enjoy building complete applications rather than working only on isolated models.
+
+### 🎨 Frontend
+
+`React` • `React Native` • `Tailwind` • `Bootstrap` • `Next.js`
+
+### ⚙️ Backend
+
+`FastAPI` • `Django` • `Node.js`
+
+### 🧠 AI Layer
+
+`PyTorch` • `OpenCV` • `MediaPipe` • `YOLO` • `LangChain` • `LangGraph` • `LLMs`
+
+### 🗄️ Data Layer
+
+`PostgreSQL` • `pgVector` • `MongoDB` • `MySQL` • `ChromaDB`
+
+### 🚀 Deployment
+
+`Docker` • `Render` • `GitHub`
+
+---
+
+# 🚀 Current Projects & Experiments
 
 | Project Type | Focus Area |
 |--------------|------------|
-| **RAG Systems** | Building domain-specific RAG with hybrid search |
-| **AI Agents** | Developing autonomous agents with Claude and MCP |
-| **Vector DB Optimization** | Performance tuning for large-scale retrieval |
-| **Semantic Search** | Multimodal search with text and image embeddings |
-| **LLM Fine-Tuning** | Domain adaptation for specific use cases |
-| **AI Web Apps** | Full-stack applications with AI integration |
+| 👁️ **Computer Vision** | Real-time visual AI applications |
+| 🤖 **AI Agents** | Tool-using and workflow-based intelligent systems |
+| 🔎 **RAG Systems** | Domain-specific knowledge and retrieval systems |
+| 🧠 **Deep Learning** | Practical model implementation and experimentation |
+| 🌐 **AI Web Apps** | Full-stack applications with integrated AI |
+| 📱 **AI Mobile Apps** | AI-powered experiences with React Native |
+| 🔗 **Multimodal AI** | Combining vision, language and AI capabilities |
+| ⚡ **Real-Time AI** | Interactive camera and vision-based systems |
 
 ---
 
-## 🎓 Continuous Learning Path
+# 📚 Continuous Learning
 
-- 🧠 Advanced RAG techniques and evaluation
-- 📊 Vector database optimization at scale
-- 🎯 Agentic AI systems and MCP patterns
-- ⚡ Model compression and quantization
-- 🔄 Multi-modal RAG and embeddings
-- 🌐 Production-grade AI deployment
+Currently deepening my knowledge in:
+
+- 🧠 Deep Learning
+- 👁️ Advanced Computer Vision
+- 🎯 Object Detection & Segmentation
+- 🎥 Real-Time Vision
+- 🔗 Multimodal AI
+- 🤖 Agentic AI
+- 🧩 MCP Architecture
+- 🔍 Advanced RAG & Evaluation
+- ⚡ AI Application Deployment
+- 🏗️ Production-oriented AI Engineering
 
 ---
+
+# 💡 What Makes Me Different
+
+## 🧠 Deliberate AI Engineering
+
+I don't just use AI — I focus on understanding the concepts behind the tools, models, and architectures I build with.
+
+## 🏗️ System-First Thinking
+
+I like looking at the complete system:
+
+    Problem
+       ↓
+    Architecture
+       ↓
+    AI Model
+       ↓
+    Backend
+       ↓
+    Data
+       ↓
+    Frontend
+       ↓
+    Deployment
+
+## 🔬 Theory → Practice
+
+My learning process is centered around:
+
+    Learn
+      ↓
+    Understand
+      ↓
+    Implement
+      ↓
+    Build
+      ↓
+    Experiment
+      ↓
+    Improve
+
+## 🌍 Full-Stack AI
+
+My goal is not only to build AI models, but to integrate them into usable applications through modern web, mobile, backend, database and deployment technologies.
+
+---
+
+# 🎯 My Current Direction
 
 <p align="center">
-  💡 <em>"Building the future of AI, one intelligent system at a time."</em>
+
+🤖 <strong>AI Engineering</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+👁️ <strong>Computer Vision</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 <strong>Deep Learning</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🔗 <strong>LLMs & RAG</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 <strong>AI Agents</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🌐 <strong>AI Applications</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🔬 <strong>Multimodal AI</strong>
+
+</p>
+
+---
+
+# 🚀 Building With Purpose
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Learning+Deeply.;Building+Deliberately.;Exploring+Computer+Vision.;Creating+AI+Applications.;Turning+Ideas+into+Working+Products." alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Status-Building_AI-blue" alt="Status"/>
-</p>
-
----
-
-## 🏆 Key Technologies Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-Expert-blue?style=for-the-badge" alt="RAG Expert"/>
-  <img src="https://img.shields.io/badge/Claude_API-Proficient-blueviolet?style=for-the-badge" alt="Claude API"/>
-  <img src="https://img.shields.io/badge/LangChain-Master-ff69b4?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Vector_Databases-Specialist-ff6b6b?style=for-the-badge" alt="Vector DBs"/>
-  <img src="https://img.shields.io/badge/MCP-Architect-success?style=for-the-badge" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge" alt="Python Expert"/>
+  <em>💡 Turning ideas into intelligent, real-world applications.</em>
 </p>
 
 ---
 
 <p align="center">
-  <sub><sup>Built with ❤️ and a deliberate approach to AI engineering</sup></sub>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=3B82F6&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <sub>Built with ❤️ and a deliberate approach to AI engineering.</sub>
 </p>
