@@ -185,36 +185,6 @@ My current direction is **Computer Vision + AI Applications**, where I explore r
 
 # 👁️ Computer Vision Journey
 
-My Computer Vision focus includes:
-
-    Image Processing
-          ↓
-       OpenCV
-          ↓
-    Deep Learning & CNNs
-          ↓
-    Image Classification
-          ↓
-    Object Detection
-          ↓
-         YOLO
-          ↓
-      Segmentation
-          ↓
-          OCR
-          ↓
-    Face & Hand Tracking
-          ↓
-    Pose & Gesture Recognition
-          ↓
-    Video Understanding
-          ↓
-    Modern Vision Models
-          ↓
-      Multimodal AI
-          ↓
-    Real-Time Vision Applications
-
 ### 🔬 Areas I'm Exploring
 
 - 🖼️ Image Processing & Computer Vision Fundamentals
@@ -272,34 +242,7 @@ My Computer Vision focus includes:
     Database / Vector Store
       ↓
     Response
-
----
-
-# 🌐 Full-Stack AI Development
-
-I enjoy building complete applications rather than working only on isolated models.
-
-### 🎨 Frontend
-
-`React` • `React Native` • `Tailwind` • `Bootstrap` • `Next.js`
-
-### ⚙️ Backend
-
-`FastAPI` • `Django` • `Node.js`
-
-### 🧠 AI Layer
-
-`PyTorch` • `OpenCV` • `MediaPipe` • `YOLO` • `LangChain` • `LangGraph` • `LLMs`
-
-### 🗄️ Data Layer
-
-`PostgreSQL` • `pgVector` • `MongoDB` • `MySQL` • `ChromaDB`
-
-### 🚀 Deployment
-
-`Docker` • `Render` • `GitHub`
-
----
+    
 
 # 🚀 Current Projects & Experiments
 
