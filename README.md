@@ -136,7 +136,9 @@ My current direction is **Computer Vision + AI Applications**, where I explore r
   <code>Git</code> •
   <code>GitHub</code> •
   <code>Docker</code> •
+  <code>Vercel</code> •
   <code>Render</code> •
+  <code>CI/CD</code> •
   <code>VS Code</code> •
   <code>Jupyter</code> •
   <code>Kaggle</code> •
