@@ -60,7 +60,7 @@ My current direction is **Computer Vision + AI Applications**, where I explore r
   <code>YOLO</code> •
   <code>PyTorch</code> •
   <code>TensorFlow</code> •
-  <code>Keras</code> •
+  <code>SAM</code> •
   <code>scikit-learn</code>
 </p>
 
